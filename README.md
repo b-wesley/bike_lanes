@@ -1,4 +1,7 @@
-# bike_lanes
+# Protected Bike Lanes in NYC and Where They're Needed Most
+
+![image](https://github.com/user-attachments/assets/074af809-d7c3-4380-846d-41c5a4873bdd)
+
 
 Data Sources:
 
