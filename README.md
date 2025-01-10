@@ -1,6 +1,6 @@
 # Protected Bike Lanes in NYC and Where They're Needed Most
 
-Bike Lane Need Score = $$(1 - \text{\% of CD within 1/4 mile of bike lane}) + {\text{number of cyclist-involved crashes} \over \text{max number of cyclist-involved crashes in a CD}}$$
+$$\text{Bike Lane Need Score} = (1 - \text{\% of CD within 1/4 mile of bike lane}) + {\text{number of cyclist-involved crashes} \over \text{max number of cyclist-involved crashes in a CD}}$$
 
 ![image](https://github.com/user-attachments/assets/074af809-d7c3-4380-846d-41c5a4873bdd)
 
